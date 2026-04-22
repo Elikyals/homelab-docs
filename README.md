@@ -8,7 +8,7 @@ Everything here is stuff I've actually built, broken, fixed, and documented so t
 
 | Doc | Description |
 |---|---|
-| [OMV NAS Setup](./omv-nas/README.md) | Setting up OpenMediaVault as a NAS on Proxmox with USB passthrough, Tailscale remote access, and automated rsync backups |
+| [OMV NAS Setup](./Homelab - OMV NAS Setup.md) | Setting up OpenMediaVault as a NAS on Proxmox with USB passthrough, Tailscale remote access, and automated rsync backups |
 
 *More coming as the homelab grows.*
 
